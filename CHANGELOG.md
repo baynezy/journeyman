@@ -9,9 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Added a dedicated `journeyman-plan` agent for planning-only tasks.
-- Added `scripts/journeyman-plan.ps1` and `scripts/journeyman-implement.ps1` wrappers for `gh copilot` that pin agent and model selection.
+- Added initial plugin files (#1)
 
 ### Changed
 
-- Documented the `gh copilot` planning/implementation workflow in `README.md`.
+- Default planning model to GPT 5.2 (#3)
