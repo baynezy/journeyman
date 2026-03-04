@@ -1,6 +1,7 @@
 ---
 name: journeyman-plan
 description: Planning-only Journeyman agent. Produces implementation-ready plans and acceptance criteria without writing code.
+model: "gpt-5.2"
 ---
 
 # Journeyman Plan
